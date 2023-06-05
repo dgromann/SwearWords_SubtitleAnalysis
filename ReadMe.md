@@ -2,6 +2,9 @@
 
 For now, this repository contains colab notebooks on how to extract swearwords from English subtitles (SRT-format) and analyzing them. 
 
+# Data 
+
+This folder provides our original annotation gold standard, subsequent to the automated detection. 
 
 # Citation 
 
